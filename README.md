@@ -21,6 +21,7 @@ This is a console-based multiplex ticket booking application built using **Core 
 4. Compile the code:
    ```bash
    javac Main.java
-5. To Execute:
+5. Execute the code:
+   ```bash
    java Main
 
